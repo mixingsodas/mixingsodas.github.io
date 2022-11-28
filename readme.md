@@ -1,1 +1,1 @@
-This repository contains an initial readme file with the phrase "hello world", a (currently empty) twine file titled "hist 390 final", and a twine story (index.html) with multimedia, variables, conditionals, and modified text styles. 
+This repository contains an initial readme file with the phrase "hello world", a twine file titled "hist 390 group 2 final" that contains a very rough draft of the final twine narrative, and a twine story (index.html) with multimedia, variables, conditionals, and modified text styles. 
